@@ -10,6 +10,11 @@ public class AppiumTest {
 	}
 
 	@Test
+	public void NativeAppAndroidS() {
+		System.out.println("native app android S booted");
+	}
+	
+	@Test
 	public void IOSApps() {
 		System.out.println("running ios app");
 	}
