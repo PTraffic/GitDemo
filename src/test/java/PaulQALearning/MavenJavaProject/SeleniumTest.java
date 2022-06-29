@@ -17,5 +17,10 @@ public class SeleniumTest {
 	public void elementsFun() {
 		System.out.println("fun elements");
 	}
+	
+	@Test
+	public void elementsFun2() {
+		System.out.println("fun elements2");
+	}
 
 }
